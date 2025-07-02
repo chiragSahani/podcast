@@ -46,7 +46,7 @@
 ## 📁 Project Structure
 
 ```text
-📦 PodCast-MERN_webApp-master/
+📦 QuesAI/
 ├── 📂 client/         → Frontend (React, Vite, Tailwind)
 ├── 📂 server/         → Backend (Express, MongoDB)
 └── 📄 README.md       → Project documentation
