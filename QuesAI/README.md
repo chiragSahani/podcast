@@ -101,7 +101,7 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/chiragSahani/podcast.git
-cd podcast/PodCast-MERN_webApp-master
+cd podcast/QuesAI
 
 # 2. Setup backend
 cd server
